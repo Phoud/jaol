@@ -2,7 +2,7 @@
   <div>
    
     <Navbar/>
-    <Carousel/>
+    <!-- <Carousel/> -->
     <router-view/>
     <Footer/>
   </div>
@@ -22,6 +22,7 @@ export default {
     Footer,
     Navbar,
     Carousel
+
   }
 }
 </script>

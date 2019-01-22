@@ -1,6 +1,8 @@
 <template>
   <div>
     <footer class="footer is-primary">
+      <div class="section">
+      <div class="container">
       <div class="columns">
         <div class="column">
           <div class="title">Japan Alumni Of Laos</div>
@@ -70,41 +72,34 @@
           </div>
         </div>
       </div>
+</div>
+      </div>
+  
+
     </footer>
+    <div class="footer-bar">
+        <div class="section">
+          <div class="container">
+          <div class="columns">
+            <div class="column">
+              <p>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                Copyright ©
+               2019 All rights reserved | Powered by
+                <a href="https://www.mekong.digital" target="_blank">Mekong Digital Works</a>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              </p>
+            </div>
+            <!-- .col-12 -->
+          </div>
+          </div>
+        </div>
+
+
+      </div>
   </div>
 </template>
 
 <style>
-.footer {
-  background-color: #404345;
-}
-.footer-logo {
-  max-height: 100px;
-  max-width: 100px;
-}
-.social {
-  margin-top: 15px;
-  color: white;
-}
-.footer-text {
-  color: white;
-  margin-top: 15px;
-}
-.footer-link {
-  color: white;
-}
-.footer-item {
-  color: white;
-}
-.footer-link a:hover {
-  background-color: whitesmoke;
-  text-decoration: none;
-  color: black;
-}
-.subscribe {
-  margin-top: 20px;
-}
-.footer-contact{
-    padding: 12px;
-}
+
 </style>

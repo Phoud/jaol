@@ -36,6 +36,7 @@
 .navbar-end>a.navbar-item.is-active {
     border-bottom: 3px solid #ed1f24;
     color: #ed1f24;
+    text-decoration: none;
 }
 
 .current-menu-item {
@@ -198,6 +199,112 @@ h4 {
 .activity a:hover {
     text-decoration: none;
 }
+
+
+/* Footer */
+
+.footer {
+    background-color: #404345;
+}
+
+.footer-logo {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.social {
+    margin-top: 15px;
+    color: white;
+}
+
+.footer-text {
+    color: white;
+    margin-top: 15px;
+}
+
+.footer-link {
+    color: white;
+}
+
+.footer-item {
+    color: white;
+}
+
+.footer-link a:hover {
+    background-color: whitesmoke;
+    text-decoration: none;
+    color: black;
+}
+
+.subscribe {
+    margin-top: 20px;
+}
+
+.footer-contact {
+    padding: 12px;
+}
+
+.footer-bar {
+    padding: 30px 0;
+    font-size: 12px;
+    color: #7b7b7b;
+    background: #131212;
+    text-align: center;
+}
+
+.footer-bar .section {
+    padding: 0 1.5rem;
+}
+
+.custom-button {
+    padding: 18px 40px;
+    border: 2px solid #262626;
+    border-radius: 24px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+    color: rgba(255, 54, 0, 1);
+    outline: none;
+}
+
+.blog-bottom {
+    margin-bottom: 15px;
+}
+
+
+/* .search-widget input[type="search"] {
+    width: calc(100% - 76px);
+    height: 52px;
+    padding: 10px 20px;
+    border: 1px solid #e0e0e0;
+    font-size: 14px;
+    outline: none;
+}
+
+.search-widget button[type="submit"] {
+    width: 75px;
+    height: 54px;
+    border: 0;
+    margin-left: -5px;
+    font-size: 14px;
+    font-weight: 500;
+    background: #ff5a00;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+} */
+
+.search-button {
+    background: #ff5a00;
+    color: white;
+}
+
+.button:hover[type="search"] {
+    color: white;
+}
+
+
+/* End Footer */
 
 @media only screen and (max-width: 1023px) {
     .logoWraper {

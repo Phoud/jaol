@@ -46,9 +46,20 @@ export default {
 
 <style>
     .slider_bck {
-    height: 500px;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
-}
+        height: 500px;
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
+    }
+
+    @media only screen and (max-width: 1023px) and (min-width: 920px) {
+        .slider_bck {
+            height: 320px;
+        }
+    }
+    @media only screen and (max-width: 919px) {
+        .slider_bck {
+            height: 240px;
+        }
+    }
     
 </style>

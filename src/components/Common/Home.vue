@@ -17,6 +17,7 @@
       </div>
     </section>
 
+
     <!-- End Hero Section -->
     <div class="section">
       <div class="container">
@@ -256,7 +257,7 @@
                   </div>
                   <div class="media-content">
                     <a href="" class="blog-title">
-                    <p class="title is-4">ILMP Middle Leader (4-day) Course - Laos - January 2019</p>
+                    <p class="title is-4">Teens Dream Annual Video Competition (Win Up to)</p>
                     </a>
                     <p class="subtitle is-6">
                       <i class="fa fa-map-marker"></i> Vientiane Capital
@@ -281,7 +282,7 @@
                   </div>
                   <div class="media-content">
                     <a href="" class="blog-title">
-                    <p class="title is-4">ILMP Middle Leader (4-day) Course - Laos - January 2019</p>
+                    <p class="title is-4">Global Youth Summit 2019 in Zurich, Switzerland</p>
                     </a>
                     <p class="subtitle is-6">
                       <i class="fa fa-map-marker"></i> Vientiane Capital
