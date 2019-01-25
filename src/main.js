@@ -8,7 +8,7 @@ import VueMaterial from 'vue-material'
 import { MdButton, MdDrawer } from 'vue-material/dist/components'
 import 'vue-material/dist/vue-material.min.css'
 
-
+Vue.use(router)
 Vue.use(MdButton)
 Vue.use(MdDrawer)
 Vue.use(VueMaterial)

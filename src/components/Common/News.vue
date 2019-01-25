@@ -62,6 +62,11 @@
             </a>
           </div>
         </div>
+
+        <!-- Side Bar -->
+        <div class="blog-sidebar">
+
+        
         <div class="column is-4">
           <div class="field has-addons">
             <div class="control">
@@ -122,6 +127,8 @@
 
           <!-- End Related Posts -->
         </div>
+        </div>
+        <!-- End Sidebar -->
       </div>
     </div>
   </div>
